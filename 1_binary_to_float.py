@@ -1,5 +1,4 @@
 import numpy as np
-import torch
 import struct
 
 def binary_to_float(binary_string):
